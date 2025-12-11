@@ -9,7 +9,7 @@
 I am a motivated and detail-oriented technologist with hands-on experience in web development. I specialize in creating efficient and scalable applications using modern technologies.
 
 * **Primary Stack:** Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js).
-* **Education:** B.Tech in ECE (CGPA-8.59) from Raghu Engineering College.
+* **Education:** B.Tech in ECE (CGPA-8.51) from Raghu Engineering College.
 * **Unique Edge:** Developed a patent-pending reconfigurable filtering antenna as a final-year project.
 
 ---
