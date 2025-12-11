@@ -44,5 +44,5 @@ I am a motivated and detail-oriented technologist with hands-on experience in we
 | Contact | Details |
 | :--- | :--- |
 | 📧 Email | btejendra2004@gmail.com |
-| 💼 LinkedIn | (https://www.linkedin.com/in/tejendra-b-95b5b8231/) |
-| 📚 GitHub | (https://github.com/tejendra-7) |
+| 💼 LinkedIn | https://www.linkedin.com/in/tejendra-b-95b5b8231/ |
+| 📚 GitHub | https://github.com/tejendra-7 |
