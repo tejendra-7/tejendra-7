@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 Quick Snapshot
+### 🌟 About Me
 
 I am a motivated and detail-oriented technologist with hands-on experience in web development. I specialize in creating efficient and scalable applications using modern technologies.
 
