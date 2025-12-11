@@ -1,4 +1,4 @@
-# Hi there , I'm Tejendra B
+# Hi there 👋, I'm Tejendra B
 
 ### 💻 Full Stack Developer | ECE Graduate | Ai Enthusiast
 
