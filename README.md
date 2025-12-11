@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Tejendra B
 
-### 💻 Full Stack Developer | ECE Graduate | Patent-Pending Innovator
+### 💻 Full Stack Developer | ECE Graduate | Ai Enthusiast
 
 ---
 
