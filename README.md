@@ -1,5 +1,4 @@
-# Hi there <img width="402" height="263" alt="image" src="https://github.com/user-attachments/assets/58109998-a34f-4d92-894b-f9fc5ccceda1" />
-, I'm Tejendra B
+# Hi there , I'm Tejendra B
 
 ### 💻 Full Stack Developer | ECE Graduate | Ai Enthusiast
 
