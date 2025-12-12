@@ -21,7 +21,7 @@ I am a motivated and detail-oriented technologist with hands-on experience in we
 | **Languages** | JavaScript, Java, C, SQL, Python |
 | **Frontend** | HTML, CSS, React.js |
 | **Backend** | Node.js, Express.js, PostgreSQL |
-| **Tools** | Git, GitHub, Postman, VS Code |
+| **Tools** | Git, GitHub, Postman, VS Code, Vercel|
 
 ---
 
@@ -32,7 +32,13 @@ I am a motivated and detail-oriented technologist with hands-on experience in we
 * Optimized backend APIs, achieving a **60% improvement in page load speed**.
 * Increased user engagement by **35%**.
 
-#### 2. Patent-Pending ECE Project
+#### 2. Resume Analysis App
+* Developed an interactive dashboard for real-time resume scoring and keyword optimization.
+* Optimized bundle size and asset loading, resulting in sub-second page load times.
+* standardized a reusable component library, accelerating future feature development by 50%.
+
+
+#### 3. Patent-Pending ECE Project
 * Led the design of a miniaturized reconfigurable microstrip antenna.
 * Achieved high-gain filtering at $2.5 \text{ GHz}$ ($6.1 \text{ dBi}$ gain).
 * Patent Application: `202541041031`.
